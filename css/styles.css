@@ -1,0 +1,73 @@
+#home {
+	color: white;
+
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 20px;
+	
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: white;
+	font-weight: bold;
+	border-radius: 8px;
+
+
+}
+
+.navbar{
+	padding: 20px;
+	background-image: linear-gradient(
+        to top left,
+        #bdc3c7,
+		#2c3e50
+       
+		
+    );
+}
+
+.container-fluid{
+	padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item {
+	height: 100vh;
+}
+
+#mainSlider .carousel-caption {
+	top: 80%;
+}
+
+#mainSlider .carousel-caption h2 {
+	font-size: 50px;
+	font-family:'Roboto', sans-serif;
+}
+
+.caixa {
+	padding: 100px 0;
+
+}
+
+
+
+footer{
+	height: 450px;
+	text-align: center;
+	background-image: linear-gradient(
+        to top left,
+		#bdc3c7,
+		#2c3e50
+		
+    );
+
+}
+
+.rodape{
+	padding: 10px;
+}
+
+
+
+
